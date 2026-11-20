@@ -1,0 +1,134 @@
+{
+ "Airplane": {
+  "levels": 4,
+  "classic": [
+   108209,
+   109078,
+   108636
+  ],
+  "deferred": 0,
+  "modular_room": 61776,
+  "proposed_room": 1278172
+ },
+ "Baboon": {
+  "levels": 4,
+  "classic": [
+   109575,
+   109257,
+   109322
+  ],
+  "deferred": 0,
+  "modular_room": 43508,
+  "proposed_room": 741200
+ },
+ "Jetplane": {
+  "levels": 4,
+  "classic": [
+   127009,
+   127169,
+   126981
+  ],
+  "deferred": 0,
+  "modular_room": 96712,
+  "proposed_room": 1227828
+ },
+ "Lena": {
+  "levels": 4,
+  "classic": [
+   83240,
+   82367,
+   82917
+  ],
+  "deferred": 0,
+  "modular_room": 85096,
+  "proposed_room": 964048
+ },
+ "Man": {
+  "levels": 4,
+  "classic": [
+   595813,
+   595241,
+   596571
+  ],
+  "deferred": 0,
+  "modular_room": 262020,
+  "proposed_room": 5039180
+ },
+ "Tiffany": {
+  "levels": 4,
+  "classic": [
+   138394,
+   138484,
+   138003
+  ],
+  "deferred": 0,
+  "modular_room": 62776,
+  "proposed_room": 1273604
+ },
+ "barbara": {
+  "levels": 4,
+  "classic": [
+   100565,
+   100467,
+   100171
+  ],
+  "deferred": 0,
+  "modular_room": 92384,
+  "proposed_room": 993880
+ },
+ "boat": {
+  "levels": 4,
+  "classic": [
+   109345,
+   109501,
+   109512
+  ],
+  "deferred": 0,
+  "modular_room": 61560,
+  "proposed_room": 933488
+ },
+ "goldhill": {
+  "levels": 4,
+  "classic": [
+   81803,
+   82127,
+   81749
+  ],
+  "deferred": 0,
+  "modular_room": 73752,
+  "proposed_room": 878112
+ },
+ "lake": {
+  "levels": 4,
+  "classic": [
+   116105,
+   115747,
+   116021
+  ],
+  "deferred": 0,
+  "modular_room": 49932,
+  "proposed_room": 832180
+ },
+ "livingroom": {
+  "levels": 4,
+  "classic": [
+   109588,
+   108799,
+   109546
+  ],
+  "deferred": 0,
+  "modular_room": 98924,
+  "proposed_room": 978448
+ },
+ "peppers": {
+  "levels": 4,
+  "classic": [
+   114823,
+   114718,
+   114838
+  ],
+  "deferred": 0,
+  "modular_room": 57404,
+  "proposed_room": 1016152
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "validation": {
+  "Airplane": {
+   "published_net": 3.8363,
+   "reimpl_net": 3.8877296447753906,
+   "published_room": 1005781,
+   "reimpl_room": 1019263,
+   "room_dev_pct": 1.3404508536152502
+  },
+  "Baboon": {
+   "published_net": 1.3832,
+   "reimpl_net": 1.4364356994628906,
+   "published_room": 362673,
+   "reimpl_room": 376635,
+   "room_dev_pct": 3.8497489473988966
+  },
+  "Man": {
+   "published_net": 2.6345,
+   "reimpl_net": 2.668699264526367,
+   "published_room": 2764959,
+   "reimpl_room": 2800862,
+   "room_dev_pct": 1.298500267092568
+  }
+ },
+ "rows": {
+  "Airplane": {
+   "bpc_net": 3.8877296447753906,
+   "bpc_room": 1019263,
+   "overflow": 5,
+   "bs": 3,
+   "Lfix": 2,
+   "prop_net": 4.3004,
+   "prop_eff": 3.9449
+  },
+  "Baboon": {
+   "bpc_net": 1.4364356994628906,
+   "bpc_room": 376635,
+   "overflow": 3,
+   "bs": 4,
+   "Lfix": 5,
+   "prop_net": 2.2358,
+   "prop_eff": 1.7593
+  },
+  "Jetplane": {
+   "bpc_net": 3.4749679565429688,
+   "bpc_room": 910988,
+   "overflow": 1,
+   "bs": 4,
+   "Lfix": 5,
+   "prop_net": 4.0553,
+   "prop_eff": 3.6178
+  },
+  "Lena": {
+   "bpc_net": 3.12701416015625,
+   "bpc_room": 819756,
+   "overflow": 0,
+   "bs": 3,
+   "Lfix": 4,
+   "prop_net": 3.0861,
+   "prop_eff": 3.0861
+  },
+  "Man": {
+   "bpc_net": 2.668699264526367,
+   "bpc_room": 2800862,
+   "overflow": 125,
+   "bs": 3,
+   "Lfix": 4,
+   "prop_net": 4.214,
+   "prop_eff": 2.9601
+  },
+  "Tiffany": {
+   "bpc_net": 3.202800750732422,
+   "bpc_room": 839713,
+   "overflow": 5,
+   "bs": 3,
+   "Lfix": 4,
+   "prop_net": 4.1801,
+   "prop_eff": 3.4183
+  },
+  "barbara": {
+   "bpc_net": 2.63232421875,
+   "bpc_room": 690076,
+   "overflow": 0,
+   "bs": 3,
+   "Lfix": 7,
+   "prop_net": 3.1393,
+   "prop_eff": 2.9908
+  },
+  "boat": {
+   "bpc_net": 2.5101585388183594,
+   "bpc_room": 658177,
+   "overflow": 7,
+   "bs": 4,
+   "Lfix": 5,
+   "prop_net": 2.9656,
+   "prop_eff": 2.8524
+  },
+  "goldhill": {
+   "bpc_net": 2.7131309509277344,
+   "bpc_room": 711259,
+   "overflow": 0,
+   "bs": 3,
+   "Lfix": 4,
+   "prop_net": 2.7666,
+   "prop_eff": 2.7666
+  },
+  "lake": {
+   "bpc_net": 2.2416229248046875,
+   "bpc_room": 587656,
+   "overflow": 0,
+   "bs": 4,
+   "Lfix": 6,
+   "prop_net": 2.5342,
+   "prop_eff": 2.5342
+  },
+  "livingroom": {
+   "bpc_net": 2.7640304565429688,
+   "bpc_room": 724620,
+   "overflow": 1,
+   "bs": 3,
+   "Lfix": 4,
+   "prop_net": 3.1485,
+   "prop_eff": 2.9024
+  },
+  "peppers": {
+   "bpc_net": 2.701141357421875,
+   "bpc_room": 708116,
+   "overflow": 0,
+   "bs": 3,
+   "Lfix": 4,
+   "prop_net": 3.3011,
+   "prop_eff": 3.1136
+  }
+ }
+}

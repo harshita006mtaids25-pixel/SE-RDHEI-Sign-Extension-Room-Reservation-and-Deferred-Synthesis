@@ -1,0 +1,422 @@
+{
+ "4.2.01": {
+  "size": [
+   512,
+   512
+  ],
+  "RGB": {
+   "components": {
+    "R": {
+     "raw": 4.557586669921875,
+     "side": 0.616546630859375,
+     "cont": 7.5703125,
+     "payload_exact": true,
+     "exact": true
+    },
+    "G": {
+     "raw": 4.64166259765625,
+     "side": 0.60626220703125,
+     "cont": 8.5703125,
+     "payload_exact": true,
+     "exact": true
+    },
+    "B": {
+     "raw": 4.699127197265625,
+     "side": 0.580718994140625,
+     "cont": 8.3046875,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 4.632792154947917,
+   "side": 0.6011759440104166,
+   "net": 4.0316162109375,
+   "cont": 8.1484375,
+   "eff": 3.8831787109375,
+   "exact": true,
+   "all_payloads_exact": true
+  },
+  "RCT": {
+   "components": {
+    "Y": {
+     "raw": 4.7624359130859375,
+     "side": 0.5740203857421875,
+     "cont": 8.2734375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cb": {
+     "raw": 4.6785888671875,
+     "side": 0.6888542175292969,
+     "cont": 8.34375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cr": {
+     "raw": 4.862274169921875,
+     "side": 0.627685546875,
+     "cont": 8.796875,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 4.7677663167317705,
+   "side": 0.6301867167154948,
+   "net": 4.1375796000162754,
+   "cont": 8.471354166666666,
+   "eff": 3.6662254333496094,
+   "exact": true,
+   "all_payloads_exact": true
+  }
+ },
+ "4.2.03": {
+  "size": [
+   512,
+   512
+  ],
+  "RGB": {
+   "components": {
+    "R": {
+     "raw": 3.0594482421875,
+     "side": 0.6003074645996094,
+     "cont": 8.734375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "G": {
+     "raw": 2.6416473388671875,
+     "side": 0.5961265563964844,
+     "cont": 8.49609375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "B": {
+     "raw": 2.7032012939453125,
+     "side": 0.6037864685058594,
+     "cont": 8.56640625,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 2.8014322916666665,
+   "side": 0.600073496500651,
+   "net": 2.2013587951660156,
+   "cont": 8.598958333333334,
+   "eff": 1.6024004618326817,
+   "exact": true,
+   "all_payloads_exact": true
+  },
+  "RCT": {
+   "components": {
+    "Y": {
+     "raw": 2.861663818359375,
+     "side": 0.5901298522949219,
+     "cont": 8.4921875,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cb": {
+     "raw": 2.769256591796875,
+     "side": 0.5651206970214844,
+     "cont": 8.31640625,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cr": {
+     "raw": 2.5719146728515625,
+     "side": 0.5321617126464844,
+     "cont": 8.16796875,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 2.734278361002604,
+   "side": 0.5624707539876302,
+   "net": 2.1718076070149737,
+   "cont": 8.325520833333334,
+   "eff": 1.8462867736816397,
+   "exact": true,
+   "all_payloads_exact": true
+  }
+ },
+ "4.2.05": {
+  "size": [
+   512,
+   512
+  ],
+  "RGB": {
+   "components": {
+    "R": {
+     "raw": 4.31451416015625,
+     "side": 0.6441268920898438,
+     "cont": 8.125,
+     "payload_exact": true,
+     "exact": true
+    },
+    "G": {
+     "raw": 4.6059722900390625,
+     "side": 0.6293678283691406,
+     "cont": 8.50390625,
+     "payload_exact": true,
+     "exact": true
+    },
+    "B": {
+     "raw": 4.1955413818359375,
+     "side": 0.64288330078125,
+     "cont": 8.02734375,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 4.37200927734375,
+   "side": 0.6387926737467448,
+   "net": 3.7332166035970054,
+   "cont": 8.21875,
+   "eff": 3.5144666035970054,
+   "exact": true,
+   "all_payloads_exact": true
+  },
+  "RCT": {
+   "components": {
+    "Y": {
+     "raw": 4.648193359375,
+     "side": 0.6290473937988281,
+     "cont": 8.375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cb": {
+     "raw": 4.8181915283203125,
+     "side": 0.6224555969238281,
+     "cont": 8.4375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cr": {
+     "raw": 4.704315185546875,
+     "side": 0.6014862060546875,
+     "cont": 8.19140625,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 4.7235666910807295,
+   "side": 0.6176630655924479,
+   "net": 4.105903625488281,
+   "cont": 8.334635416666666,
+   "eff": 3.771268208821615,
+   "exact": true,
+   "all_payloads_exact": true
+  }
+ },
+ "4.2.06": {
+  "size": [
+   512,
+   512
+  ],
+  "RGB": {
+   "components": {
+    "R": {
+     "raw": 3.423553466796875,
+     "side": 0.5999336242675781,
+     "cont": 8.28125,
+     "payload_exact": true,
+     "exact": true
+    },
+    "G": {
+     "raw": 3.64300537109375,
+     "side": 0.6567573547363281,
+     "cont": 8.76953125,
+     "payload_exact": true,
+     "exact": true
+    },
+    "B": {
+     "raw": 3.5880279541015625,
+     "side": 0.6589393615722656,
+     "cont": 8.50390625,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 3.5515289306640625,
+   "side": 0.638543446858724,
+   "net": 2.9129854838053384,
+   "cont": 8.518229166666666,
+   "eff": 2.3947563171386723,
+   "exact": true,
+   "all_payloads_exact": true
+  },
+  "RCT": {
+   "components": {
+    "Y": {
+     "raw": 3.462188720703125,
+     "side": 0.6790390014648438,
+     "cont": 8.1875,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cb": {
+     "raw": 3.0680084228515625,
+     "side": 0.6004867553710938,
+     "cont": 8.0,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cr": {
+     "raw": 3.4521942138671875,
+     "side": 0.657196044921875,
+     "cont": 8.6640625,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 3.3274637858072915,
+   "side": 0.6455739339192709,
+   "net": 2.6818898518880205,
+   "cont": 8.283854166666666,
+   "eff": 2.3980356852213545,
+   "exact": true,
+   "all_payloads_exact": true
+  }
+ },
+ "4.2.07": {
+  "size": [
+   512,
+   512
+  ],
+  "RGB": {
+   "components": {
+    "R": {
+     "raw": 3.7332000732421875,
+     "side": 0.6094627380371094,
+     "cont": 8.37109375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "G": {
+     "raw": 3.7466888427734375,
+     "side": 0.5982398986816406,
+     "cont": 8.2578125,
+     "payload_exact": true,
+     "exact": true
+    },
+    "B": {
+     "raw": 3.6499176025390625,
+     "side": 0.5606346130371094,
+     "cont": 8.171875,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 3.709935506184896,
+   "side": 0.5894457499186198,
+   "net": 3.1204897562662763,
+   "cont": 8.266927083333334,
+   "eff": 2.8535626729329424,
+   "exact": true,
+   "all_payloads_exact": true
+  },
+  "RCT": {
+   "components": {
+    "Y": {
+     "raw": 3.8703460693359375,
+     "side": 0.5648612976074219,
+     "cont": 8.109375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cb": {
+     "raw": 3.5925445556640625,
+     "side": 0.5900650024414062,
+     "cont": 8.33984375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cr": {
+     "raw": 3.8206634521484375,
+     "side": 0.616973876953125,
+     "cont": 8.625,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 3.7611846923828125,
+   "side": 0.5906333923339844,
+   "net": 3.170551300048828,
+   "cont": 8.358072916666666,
+   "eff": 2.812478383382162,
+   "exact": true,
+   "all_payloads_exact": true
+  }
+ },
+ "house": {
+  "size": [
+   512,
+   512
+  ],
+  "RGB": {
+   "components": {
+    "R": {
+     "raw": 4.460174560546875,
+     "side": 0.6562461853027344,
+     "cont": 8.75,
+     "payload_exact": true,
+     "exact": true
+    },
+    "G": {
+     "raw": 4.136566162109375,
+     "side": 0.6820182800292969,
+     "cont": 8.37890625,
+     "payload_exact": true,
+     "exact": true
+    },
+    "B": {
+     "raw": 4.3203277587890625,
+     "side": 0.6638832092285156,
+     "cont": 8.375,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 4.3056894938151045,
+   "side": 0.667382558186849,
+   "net": 3.6383069356282554,
+   "cont": 8.501302083333334,
+   "eff": 3.1370048522949214,
+   "exact": true,
+   "all_payloads_exact": true
+  },
+  "RCT": {
+   "components": {
+    "Y": {
+     "raw": 4.347625732421875,
+     "side": 0.676666259765625,
+     "cont": 8.359375,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cb": {
+     "raw": 3.7314605712890625,
+     "side": 0.5949325561523438,
+     "cont": 7.4921875,
+     "payload_exact": true,
+     "exact": true
+    },
+    "Cr": {
+     "raw": 4.533660888671875,
+     "side": 0.630767822265625,
+     "cont": 8.69140625,
+     "payload_exact": true,
+     "exact": true
+    }
+   },
+   "raw": 4.2042490641276045,
+   "side": 0.6341222127278646,
+   "net": 3.5701268513997397,
+   "cont": 8.180989583333334,
+   "eff": 3.389137268066406,
+   "exact": true,
+   "all_payloads_exact": true
+  }
+ }
+}
